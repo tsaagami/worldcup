@@ -1,0 +1,34 @@
+Team,Group,First match against,Second match against,Third match against
+Russia,A,Saudi Arabia,Egypt,Uruguay
+Saudi Arabia,A,Russia,Uruguay,Egypt
+Egypt,A,Uruguay,Russia,Saudi Arabia
+Uruguay,A,Egypt,Saudi Arabia,Russia
+Portugal,B,Spain,Morocco,Iran
+Spain,B,Portugal,Iran,Morocco
+Morocco,B,Iran,Portugal,Spain
+Iran,B,Morocco,Spain,Portugal
+France,C,Australia,Peru,Denmark
+Australia,C,France,Denmark,Peru
+Peru,C,Denmark,France,Australia
+Denmark,C,Peru,Australia,France
+Argentina,D,Iceland,Croatia,Nigeria
+Iceland,D,Argentina,Nigeria,Croatia
+Croatia,D,Nigeria,Argentina,Iceland
+Nigeria,D,Croatia,Iceland,Argentina
+Brazil,E,Switzerland,Costa Rica,Serbia
+Switzerland,E,Brazil,Serbia,Costa Rica
+Costa Rica,E,Serbia,Brazil,Switzerland
+Serbia,E,Costa Rica,Switzerland,Brazil
+Germany,F,Mexico,Sweden,Korea Republic
+Mexico,F,Germany,Korea Republic,Sweden
+Sweden,F,Korea Republic,Germany,Mexico
+Korea Republic,F,Sweden,Mexico,Germany
+Belgium,G,Panama,Tunisia,England
+Panama,G,Belgium,England,Tunisia
+Tunisia,G,England,Belgium,Panama
+England,G,Tunisia,Panama,Belgium
+Poland,H,Senegal,Colombia,Japan
+Senegal,H,Poland,Japan,Colombia
+Colombia,H,Japan,Poland,Senegal
+Japan,H,Colombia,Senegal,Poland
+,,,,
